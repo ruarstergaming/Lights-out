@@ -1,0 +1,32 @@
+Level 1: B3, E1
+Level 2: A1, E1, C2
+Level 3: A2, D4, C2
+Level 4: B4, A5, D4
+Level 5: A5, D2, E1
+Level 6: B4, D2, C3, A1
+Level 7: A3, D3, B2, C5
+Level 8: A1, B2, C3, C5
+Level 9: E5, C4, E1, A2
+Level 10: E4, D3, D5, B4, D1
+Level 11: E4, A2, D5, B1, D1
+Level 12: B3, D2, C1, A4, E4
+Level 13: C4, C5, C3, A3, D2
+Level 14: A2, E4, C3, B2, D3
+Level 15: C3, A4, E4, B1, D1, A2, E2
+
+Coloured Levels
+Level 1: C3, C3
+Level 2: B2, B2, E5
+Level 3: A1, A1, D2, B4
+Level 4: B3, B3, D3, C5
+Level 5: E4, A5, A5, C5, C5
+Level 6: D2, D2, C3, C3, B4, B4
+Level 7: A2, C2, C2, E3, E3, C4
+Level 8: D4, C3, C3, B3, B3, A2, A2
+Level 9: C5, C3, C3, D2, D2, C1, C1
+Level 10: E1, E1, D4, D4, B4, B4, A5, A5
+Level 11: C1, B3, B3, B4, D3, D3, E4, E4
+Level 12: E1, E1, D2, C3, C3, B4, A5, A5
+Level 13: A3, B5, B5, D5, C3, C3, D2, E2, E2
+Level 14: A1, A1, A2, A2, C1, E4, E4, C4, C4, B5, B5
+Level 15: B3, D3, B1, B1, D5, D5, A1, A1, C2, C2, E1, E1, A4, A4, E4, E4, C5, C5
